@@ -1,9 +1,9 @@
 # atmosphere
   
-##Description:
+## Description:
   Weather radar with location in real time
 
-##Functions:
+## Functions:
   - Map with radar layers (precipitation, storms, etc.)
   - Radar image animation (loop of the last minutes/hours)
   - Auto-centering the radar on your location
